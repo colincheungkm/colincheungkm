@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Colin Cheung</h1>
+<h1 align="center">Hi 👋, I'm Colin </h1>
 <h3 align="center">👨‍💻 A passionate frontend developer from Toronto, Canada 🍁</h3>
 
 - 🌱 I’m currently learning **Front-End Web Development**
